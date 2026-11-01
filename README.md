@@ -119,8 +119,12 @@ LinkedIn lead scraping and Instagram/LinkedIn content automation.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsinaam&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsinaam&layout=compact&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://img.shields.io/github/followers/itsinaam?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=itsinaam&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=itsinaam&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
